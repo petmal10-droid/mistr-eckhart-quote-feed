@@ -1,0 +1,71 @@
+﻿name: Daily Quote Update
+
+on:
+  schedule:
+    - cron: "5 4 * * *"
+    - cron: "5 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate quote of the day
+        shell: bash
+        run: |
+          python <<'PY'
+          import json
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          repo = Path('.')
+          quotes = json.loads((repo / 'quotes.json').read_text(encoding='utf-8-sig'))
+          now = datetime.now(ZoneInfo('Europe/Prague'))
+          date_str = now.date().isoformat()
+
+          current_path = repo / 'quote-of-day.json'
+          current = {}
+          if current_path.exists():
+              current = json.loads(current_path.read_text(encoding='utf-8-sig'))
+
+          if current.get('date') == date_str and current.get('text'):
+              print('Quote already up to date for', date_str)
+              raise SystemExit(0)
+
+          index = now.date().toordinal() % len(quotes)
+          quote = quotes[index]
+          payload = {
+              'date': date_str,
+              'timezone': 'Europe/Prague',
+              'text': quote['text'],
+              'author': quote.get('author', 'Mistr Eckhart')
+          }
+          current_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print('Updated quote-of-day.json for', date_str)
+          PY
+
+      - name: Commit and push if changed
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quote-of-day.json
+          git commit -m "Update daily quote"
+          git push
