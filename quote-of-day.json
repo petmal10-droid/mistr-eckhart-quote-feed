@@ -1,6 +1,9 @@
 {
-  "date": "2026-03-27",
-  "timezone": "Europe/Prague",
-  "text": "Bůh je stejně blízko ve všem stvořeném.",
-  "author": "Mistr Eckhart"
+    "date":  "2026-03-27",
+    "timezone":  "Europe/Prague",
+    "text":  "Každý krok k sobě je krokem pryč od Boha.",
+    "author":  "Mistr Eckhart",
+    "source_work":  "60 mystických výroků mistra Echarta",
+    "text_cs":  "Každý krok k sobě je krokem pryč od Boha.",
+    "text_en":  ""
 }
