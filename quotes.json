@@ -1484,5 +1484,305 @@
         "author":  "Thomas Merton",
         "text_cs":  "V pokoďż˝e je odpoďż˝inek, v pďż˝ďż˝e nejtěžšďż˝ bďż˝emeno.",
         "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Thomase Mertona"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Tao, kterďż˝ lze postihnout slovy, nenďż˝ vďż˝ďż˝nďż˝ a nemďż˝nnďż˝ Tao.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Jmďż˝no, kterďż˝ lze pojmenovat, nenďż˝ vďż˝ďż˝nďż˝ a nemďż˝nnďż˝ jmďż˝no.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Bezejmennďż˝ je prapoďż˝ďż˝tkem nebe a zemďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo znďż˝ druhďż˝, je moudrďż˝. Kdo znďż˝ sebe, je osvďż˝cenďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo vďż˝tďż˝zďż˝ nad lidmi, je mocnďż˝. Kdo vďż˝tďż˝zďż˝ nad sebou, je nejmocnďż˝jďż˝ďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Ti, co vďż˝dďż˝, nemluvďż˝. Ti, co mluvďż˝, nevďż˝dďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Zkalenďż˝ voda se vyďż˝istďż˝, je-li v klidu.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Cesta o tisďż˝ci mďż˝lďż˝ch zaďż˝ďż˝nďż˝ jednďż˝m krokem.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Tao je prďż˝zdnďż˝ nďż˝doba; pouďż˝ďż˝vej ji, ale nesnaďż˝ se ji naplnit.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "ďż˝ďż˝t bychom mďż˝li tak, ďż˝e budeme vďż˝e konat bytďż˝m.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Moudrďż˝ ďż˝lovďż˝k dosďż˝hne velikosti tak, ďż˝e o ni neusiluje.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Pravdivďż˝ slova nebďż˝vajďż˝ lďż˝bivďż˝, lďż˝bivďż˝ slova nebďż˝vajďż˝ pravdivďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Nejvyďż˝ďż˝ďż˝ dobro je jako voda: prospďż˝vďż˝ vďż˝emu a s nikďż˝m nenďż˝ ve svďż˝ru.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Nic na svďż˝tďż˝ nenďż˝ tak poddajnďż˝ jako voda, a pďż˝ece zdolďż˝vďż˝ pevnďż˝ a silnďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Chcete-li vďż˝st lidi, jdďż˝te za nimi.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdyďż˝ se vzdďż˝m toho, ďż˝ďż˝m jsem, stanu se tďż˝m, ďż˝ďż˝m bych mohl bďż˝t.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Starejte se o souhlas lidďż˝ a budete jejich vďż˝znďż˝m.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Moudďż˝ďż˝ lidďż˝ nemusejďż˝ bďż˝t nutnďż˝ vzdďż˝lanďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Vďż˝dďż˝t, ďż˝e nevďż˝m, toďż˝ nejlepďż˝ďż˝. Povaďż˝ovat nevďż˝dďż˝nďż˝ za vďż˝dďż˝nďż˝, toďż˝ nemoc.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Bezejmennďż˝ prostota pďż˝inďż˝ďż˝ oproďż˝tďż˝nďż˝ od ďż˝ďż˝dostďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Bďż˝t prost ďż˝ďż˝dostďż˝ znamenďż˝ bďż˝t klidnďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Jistďż˝ je jen jedinďż˝, totiďż˝ ďż˝e jistďż˝ nenďż˝ nic.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Svďż˝t se neustďż˝le mďż˝nďż˝ a nejvďż˝c z nďż˝ho se mďż˝nďż˝ ďż˝lovďż˝k.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo dďż˝lďż˝ dlouhďż˝ kroky, nekrďż˝ďż˝ďż˝ nejrychleji.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Moudďż˝ďż˝ vynikajďż˝, protoďż˝e vidďż˝ sami sebe jako souďż˝ďż˝st celku.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo znďż˝ mďż˝ru, nesetkďż˝ se s nezdarem.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo vďż˝, kdy se zastavit, vyhne se nebezpeďż˝ďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Vytvďż˝ďż˝et a nevlastnit, pďż˝sobit a nezďż˝viset, to je tajemnďż˝ ctnost.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo umďż˝ vďż˝st, nevrhďż˝ se vpďż˝ed.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo umďż˝ bojovat, neznďż˝ hnďż˝vu.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "ďż˝lovďż˝k mďż˝ vďż˝ďż˝nou esenci, stejnďż˝ velkolepou jako samotnďż˝ Tao.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo pďż˝emďż˝hďż˝ druhďż˝, je silnďż˝; kdo pďż˝emďż˝hďż˝ sebe, je mocnďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "V pďż˝ďż˝rodďż˝ pďż˝sobďż˝ vďż˝echny vďż˝ci v tichosti.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Nebe a zemďż˝ zachďż˝zejďż˝ s tvory jako se slamďż˝nďż˝mi psy.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Pďż˝ipravovat obtďż˝nďż˝, dokud je snadnďż˝; provďż˝dďż˝t velkďż˝, dokud je nepatrnďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Moudrďż˝ ďż˝lovďż˝k zďż˝stďż˝vďż˝ v pozadďż˝, a tďż˝m se dostďż˝vďż˝ v ďż˝elo lidďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Uzavďż˝rej svoje otvory, uzamykej svoje brďż˝ny a uchovďż˝ si sďż˝lu.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Vidďż˝t malďż˝ se nazďż˝vďż˝ prozďż˝ravost.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Drďż˝et se mďż˝kkďż˝ho se nazďż˝vďż˝ sďż˝la.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Moudrďż˝ je sďż˝m poctivďż˝, ale netvaruje ostatnďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Moudrďż˝ je jasnďż˝, ale nezďż˝ďż˝ďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "ďż˝ďż˝m rychleji krďż˝ďż˝ďż˝me, tďż˝m vďż˝ce se vzdalujeme cďż˝li.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Naplďż˝ nďż˝dobu aďż˝ po okraj a budeďż˝ litovat, ďż˝es nezadrďż˝el vďż˝as.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo chce sďż˝m zďż˝ďż˝it, nebude osvďż˝cen.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo se pyďż˝nďż˝ svďż˝m dďż˝lem, nedosďż˝hne niďż˝eho trvalďż˝ho.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Tao nejednďż˝, a pďż˝esto nic nezďż˝stďż˝vďż˝ nevykonďż˝no.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Prostota, trpďż˝livost, soucit. To jsou tvďż˝ nejvďż˝tďż˝ďż˝ poklady.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "ďż˝lovďż˝k s vnitďż˝nďż˝ odvahou se odvaďż˝uje ďż˝ďż˝t.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Nejdokonalejďż˝ďż˝ cesta ďż˝ivotem je konďż˝nďż˝ bez boje.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Kdo je spokojen s tďż˝m, co mďż˝, je bohatďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Pravda nenďż˝ vďż˝dy krďż˝snďż˝, ani krďż˝snďż˝ slova nejsou pravda.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Pďż˝estaďż˝te myslet a vaďż˝e problďż˝my skonďż˝ďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Dejte zlu nic, ďż˝emu by se mohlo postavit, a samo zmizďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Pďż˝ďż˝roda nespďż˝chďż˝, a pďż˝esto je vďż˝e vykonďż˝no.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "V centru svďż˝ho bytďż˝ mďż˝ odpovďż˝ďż˝; vďż˝, kdo jsi a co chceďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "ďż˝as je vytvoďż˝enďż˝ vďż˝c. ďż˝ďż˝ci \"nemďż˝m ďż˝as\" je jako ďż˝ďż˝ci \"nechci\".",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Pokud jsi v pokoji, ďż˝ijeďż˝ v pďż˝ďż˝tomnosti.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Nechte realitu bďż˝t realitou. Nechte vďż˝ci volnďż˝ plynout vpďż˝ed.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Znalost druhďż˝ch je inteligence; znalost sebe sama je pravďż˝ moudrost.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
+    },
+    {
+        "author":  "Lao-c\u0027",
+        "text_cs":  "Slabďż˝ a mďż˝kkďż˝ pďż˝emďż˝hďż˝ pevnďż˝ a silnďż˝.",
+        "source_work":  "60 mystickĂ˝ch vĂ˝rokĹŻ Lao-c\u0027"
     }
 ]
