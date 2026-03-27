@@ -1,42 +1,542 @@
-﻿[
-  {
-    "text": "Bůh je mi blíž než já sám sobě.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Kdyby si kus dřeva uvědomoval Boží blízkost tak jako archanděl, byl by šťastný jako archanděl.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Bůh je stejně blízko ve všem stvořeném.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Boha poznává správně ten, kdo ho poznává všude.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Bůh je uvnitř a my jsme vně.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Oko, jímž vidím Boha, je totéž oko, jímž Bůh vidí mne.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Moje oko a Boží oko jsou jedno oko, jedno vidění, jedno poznání a jedna láska.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Správný je ten člověk, který miluje všechny lidi jako sebe samého.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Být prázdný vůči lásce ke stvořeným věcem znamená být plný Boha; být plný lásky ke stvořeným věcem znamená být prázdný vůči Bohu.",
-    "author": "Mistr Eckhart"
-  },
-  {
-    "text": "Celá pravá mravnost, vnitřní i vnější, je obsažena v lásce.",
-    "author": "Mistr Eckhart"
-  }
+[
+    {
+        "text":  "Bůh je duši blíž než ona sama sobě.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Kdyby kus dřeva vnímal Boží blízkost jako archanděl, byl by stejně blažený jako archanděl.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Bůh je stejně blízko ve všech tvorech.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Boha správně poznává ten, kdo ho poznává všude.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Bůh je uvnitř a my jsme vně; Bůh je blízko a my jsme od něj daleko.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Oko, kterým vidím Boha, je totéž oko, kterým Bůh vidí mne.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Mé oko a Boží oko jsou jedno oko: jedno vidění, jedno poznání a jedna láska.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Správný člověk miluje všechny lidi jako sebe samého.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Být prázdný od lásky ke stvořenému znamená být plný Boha; být plný stvořeného znamená být prázdný Boha.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Veškerá pravá mravnost, vnitřní i vnější, je obsažena v lásce.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Kdo chce být neznepokojený a spokojený, potřebuje jediné: odloučenost od stvořeného.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Čím víc člověk prchá od stvořeného, tím víc k němu spěchá Stvořitel.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Má-li být srdce připravené pro nejvyšší, musí být prázdné ode všeho ostatního.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Dokonalý odpočinek se nachází jen v odloučeném srdci.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Vnější člověk může procházet různými stavy, ale vnitřní člověk zůstává svobodný a nehybný.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Kdo obrací své myšlenky a touhy k pomíjivým věcem, nezná vnitřní život.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Jde o odvrácení se od všech tvorů a o sjednocení s Nestvořeným.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Když duše dospěje až sem, ztrácí svou vlastní odlišenost a mizí v Bohu jako jitřní červeň ve slunci.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Co se zde sklání v nejhlubší pokoře, to Duch pozvedá až k výšinám Boha.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Nic není ostřejší než utrpení a nic není sladší než utrpením projít.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Láska přináší utrpení a utrpení rodí lásku.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Kdo chce dojít k nejvyššímu životu, ať drží svou mysl stále obrácenou k Bohu v srdci pevným pohledem.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Odloučenost očišťuje duši, osvěcuje svědomí, rozněcuje srdce, probouzí ducha, odděluje od tvorů a spojuje s Bohem.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Bůh může vykonat své nejvyšší dílo tam, kde nachází nebo vytváří připravenost.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Nejlepší cesta k tomuto životu je mlčet a nechat Boha působit a mluvit.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Dokud člověk miluje něco jiného než Boha nebo mimo Boha, není svobodný.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Duše je rozptýlená do vnějších věcí a musí všechny své síly stáhnout zpět do nitra.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Vnější člověk se mění, vnitřní může zůstat nehybný.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Odloučenost vede k čistotě, čistota k prostotě a prostota k nehybnosti.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Čím víc člověk stáhne své síly do nitra a zapomene na stvořené, tím je Bohu blíž.",
+        "author":  "Mistr Eckhart"
+    },
+    {
+        "text":  "Na sklonku života budeme souzeni podle lásky.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Na sklonku života budeme souzeni podle lásky.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Bůh mluví v tichu a jen v tichu mu lze naslouchat.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Bůh mluví v tichu a jen v tichu mu lze naslouchat.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Kontemplace je vlití Boží lásky do lidské duše.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Kontemplace je vlití Boží lásky do lidské duše.",
+        "text_en":  ""
+    },
+    {
+        "text":  "V noci víry kráčí duše bezpečněji než za jasného dne.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "V noci víry kráčí duše bezpečněji než za jasného dne.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Chceš-li dojít k Všemu, musíš jít skrze Nic.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Chceš-li dojít k Všemu, musíš jít skrze Nic.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Pravá mystika je sjednocení vůle s vůlí Boží.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Pravá mystika je sjednocení vůle s vůlí Boží.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Tma smyslů je úsvitem ducha.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Tma smyslů je úsvitem ducha.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Jen v naprostém odpoutání se rodí vnitřní svoboda.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Jen v naprostém odpoutání se rodí vnitřní svoboda.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Bůh se dává duši podle míry její vnitřní prázdnoty.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Bůh se dává duši podle míry její vnitřní prázdnoty.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Láska je ohněm, který pálí, ale neničí, nýbrž proměňuje.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Láska je ohněm, který pálí, ale neničí, nýbrž proměňuje.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Hledání Boha je záležitostí touhy, nikoliv rozumu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Hledání Boha je záležitostí touhy, nikoliv rozumu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Čím je duše tišší, tím jasněji v ní zní Boží slovo.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Čím je duše tišší, tím jasněji v ní zní Boží slovo.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Mystický výstup vyžaduje odvahu opustit známé břehy.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Mystický výstup vyžaduje odvahu opustit známé břehy.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Pokora je pravda, která otevírá brány k nekonečnu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Pokora je pravda, která otevírá brány k nekonečnu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Duše v Bohu odpočívá jako v tichém přístavu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Duše v Bohu odpočívá jako v tichém přístavu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Temná noc je branou k nadpřirozenému světlu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Temná noc je branou k nadpřirozenému světlu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "V tichu modlitby se duše stává zrcadlem Božím.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "V tichu modlitby se duše stává zrcadlem Božím.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Očištění srdce je nezbytným krokem k vidění Boha.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Očištění srdce je nezbytným krokem k vidění Boha.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Láska je jediné pouto, které nás činí skutečně svobodnými.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Láska je jediné pouto, které nás činí skutečně svobodnými.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Každý krok k sobě je krokem pryč od Boha.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Každý krok k sobě je krokem pryč od Boha.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Vnitřní samota je plná Boží přítomnosti.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Vnitřní samota je plná Boží přítomnosti.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Víra je mostem přes propast mezi člověkem a Bohem.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Víra je mostem přes propast mezi člověkem a Bohem.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Jen ten, kdo nic nechce, má všechno v Bohu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Jen ten, kdo nic nechce, má všechno v Bohu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Duchovní život je neustálé umírání sobě a rození se v Bohu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Duchovní život je neustálé umírání sobě a rození se v Bohu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Radost z Boha převyšuje veškeré lidské chápání.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Radost z Boha převyšuje veškeré lidské chápání.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Cesta k dokonalosti je cestou láskyplné odevzdanosti.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Cesta k dokonalosti je cestou láskyplné odevzdanosti.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Boží světlo oslepuje ty, kdo na něm lpí příliš pyšně.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Boží světlo oslepuje ty, kdo na něm lpí příliš pyšně.",
+        "text_en":  ""
+    },
+    {
+        "text":  "V tichosti a naději bude vaše síla.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "V tichosti a naději bude vaše síla.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Láska kříže je klíčem k tajemství věčnosti.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Láska kříže je klíčem k tajemství věčnosti.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Milující duše je jako včela hledající sladkost v Bohu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Milující duše je jako včela hledající sladkost v Bohu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Každé utrpení přijaté s láskou je perlou pro věčnost.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Každé utrpení přijaté s láskou je perlou pro věčnost.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Bůh je středem duše, ke kterému vše směřuje.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Bůh je středem duše, ke kterému vše směřuje.",
+        "text_en":  ""
+    },
+    {
+        "text":  "V noci víry je hvězdou naděje naše jediné vedení.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "V noci víry je hvězdou naděje naše jediné vedení.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Kdo se dotkne Boha, je navždy změněn jeho ohněm.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Kdo se dotkne Boha, je navždy změněn jeho ohněm.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Duchovní suchopár je zkouškou ryzosti naší lásky.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Duchovní suchopár je zkouškou ryzosti naší lásky.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Mystika není vize, ale hluboký klid v Boží dlani.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Mystika není vize, ale hluboký klid v Boží dlani.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Jen skrze nicotu vlastního já zazáří Boží všechno.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Jen skrze nicotu vlastního já zazáří Boží všechno.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Modlitba je dech duše, který ji udržuje při životě.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Modlitba je dech duše, který ji udržuje při životě.",
+        "text_en":  ""
+    },
+    {
+        "text":  "V pokoře nacházíme cestu, v lásce cíl.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "V pokoře nacházíme cestu, v lásce cíl.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Bůh se zjevuje těm, kdo ho hledají s čistým úmyslem.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Bůh se zjevuje těm, kdo ho hledají s čistým úmyslem.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Světlo milosti je silnější než jakákoliv temnota hříchu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Světlo milosti je silnější než jakákoliv temnota hříchu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Sjednocení s Bohem je nejvyšším povoláním člověka.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Sjednocení s Bohem je nejvyšším povoláním člověka.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Vnitřní pokoj je ovocem naprosté důvěry v Boha.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Vnitřní pokoj je ovocem naprosté důvěry v Boha.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Každý okamžik je příležitostí k setkání s Milovaným.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Každý okamžik je příležitostí k setkání s Milovaným.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Duše v kontemplaci pije z pramene živé vody.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Duše v kontemplaci pije z pramene živé vody.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Láska nás učí vidět Boha ve všech věcech.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Láska nás učí vidět Boha ve všech věcech.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Ticho je nejlepším doprovodem pro vnitřní rozhovor.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Ticho je nejlepším doprovodem pro vnitřní rozhovor.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Jen ten, kdo ztratí svůj život pro Boha, jej nalezne.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Jen ten, kdo ztratí svůj život pro Boha, jej nalezne.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Mystické sjednocení je svatbou duše s Bohem.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Mystické sjednocení je svatbou duše s Bohem.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Boží moudrost je skrytá před moudrými tohoto světa.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Boží moudrost je skrytá před moudrými tohoto světa.",
+        "text_en":  ""
+    },
+    {
+        "text":  "V hlubině duše sídlí klid, který nikdo nemůže vzít.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "V hlubině duše sídlí klid, který nikdo nemůže vzít.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Každá touha po Bohu je už projevem jeho přítomnosti.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Každá touha po Bohu je už projevem jeho přítomnosti.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Láska je křídly, na kterých se duše vznáší k nebi.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Láska je křídly, na kterých se duše vznáší k nebi.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Čistý úmysl je světlem, které ozařuje naši cestu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Čistý úmysl je světlem, které ozařuje naši cestu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "V odevzdanosti nacházíme svobodu od všech strachů.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "V odevzdanosti nacházíme svobodu od všech strachů.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Bůh je nekonečné moře lásky, do kterého se noříme.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Bůh je nekonečné moře lásky, do kterého se noříme.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Víra nám dává vidět věci neviditelné.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Víra nám dává vidět věci neviditelné.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Naděje je kotvou naší duše v nebeském přístavu.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Naděje je kotvou naší duše v nebeském přístavu.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Milovat znamená chtít pro druhého to nejlepší – Boha.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Milovat znamená chtít pro druhého to nejlepší – Boha.",
+        "text_en":  ""
+    },
+    {
+        "text":  "Na konci cesty zbude jen láska, která nikdy nekončí.",
+        "author":  "Jan od Kříže",
+        "source_work":  "60 mystických výroků Jana od Kříže",
+        "text_cs":  "Na konci cesty zbude jen láska, která nikdy nekončí.",
+        "text_en":  ""
+    }
 ]
